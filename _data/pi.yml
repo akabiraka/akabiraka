@@ -9,7 +9,7 @@
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(Current) Ph.D. Candidate, Computer Science, George Mason University, Virginia, USA",
+      "Ph.D. Candidate, Computer Science, George Mason University, Virginia, USA",
       "2016, B.Sc., Software Engineering, Institute of Information Technology, University of Dhaka, Dhaka, Bangladesh",
       "2011, HHC, Birshreshtha Noor Mohammad Public College, Dhaka, Bangladesh",
       "2009, SSC, Singair Pilot High School, Manikganj, Dhaka, Bangladesh"
@@ -17,6 +17,6 @@
 
   educationshort:
     [
-      "(Current) Ph.D. Candidate, Computer Science, GMU", 
+      "Ph.D. Candidate, Computer Science, George Mason University", 
       "2016, B.Sc., Software Engineering, IIT, University of Dhaka"
     ]

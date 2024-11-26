@@ -1,16 +1,25 @@
-actual template: https://github.com/sbryngelson/academic-website-template
+Installing dependencies:
+    actual template: https://github.com/sbryngelson/academic-website-template
+    This requires jekyll 4.3.3 (defined in Gemfile). 
+    
+    sudo apt install git
+    
+    ### follow this page: https://jekyllrb.com/docs/installation/ubuntu/
+    sudo apt-get install ruby-full build-essential zlib1g-dev    # install jekyll
+    sudo gem install jekyll bundler
 
-Run $ bundle exec jekyll serve in the repository root directory
+git could not deploy from the jekyll codes, so I had to run "rake publish", this creates "_site" folder. Then I renamed it "docs" and pushed it. 
+Next, in github settings pages/ select docs/.
+
+Run $ bundle exec jekyll serve in the repository root directory to run it on localhost.
+
 
 To change bootstrap themes from website/ directory:
     ./switch_theme.sh darkly
 bootstrap themes list in a dropdown menu here: https://bootswatch.com/
 
+
 issues:
 if the ref.bib contains slash in the id (i.e. 10.1093/bioinformatics/btad699), it cannot show the bib/abstract tab.
 <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">    ------ this was "/assets/main.css"
 
-sudo apt install git
-### follow this page: https://jekyllrb.com/docs/installation/ubuntu/
-sudo apt-get install ruby-full build-essential zlib1g-dev    # install jekyll
-sudo gem install jekyll bundler
