@@ -9,6 +9,7 @@
   # Change the items in "education" you have (up to 6)
   education:
     [
+      "Email: akabir4@gmu.edu",
       "Ph.D. Candidate, Computer Science, George Mason University, Virginia, USA",
       "2016, B.Sc., Software Engineering, Institute of Information Technology, University of Dhaka, Dhaka, Bangladesh",
       "2011, HHC, Birshreshtha Noor Mohammad Public College, Dhaka, Bangladesh",
@@ -17,6 +18,7 @@
 
   educationshort:
     [
+      "Email: akabir4@gmu.edu",
       "Ph.D. Candidate, Computer Science, George Mason University", 
       "2016, B.Sc., Software Engineering, IIT, University of Dhaka"
     ]

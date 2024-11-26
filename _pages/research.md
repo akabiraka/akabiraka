@@ -22,7 +22,7 @@ A schematic summary Bio prediction tasks. <br/>
 
 <div class="jumbotron">
   <div class="alert alert-dismissible alert-success">
-  <h4>Research Thrust I: Incorporating Biological Priors for Better Molecular Representations</h4>
+  <h4>Research Thrust I: Incorporating Biological Priors for Better Data Representations</h4>
   </div>
   <div> 
   <img src="{{ site.url }}{{ site.baseurl }}/images/goproformer_arch.png" width="45%" style="float: right;margin: 2px;">
@@ -32,7 +32,7 @@ A schematic summary Bio prediction tasks. <br/>
 
 <div class="jumbotron">
   <div class="alert alert-dismissible alert-info">
-  <h4>Research Thrust II: Integrating Physical Processes: Beyond Biological Priors</h4>
+  <h4>Research Thrust II: Integrating Physical Processes beyond Biological Priors</h4>
   </div>
   <div> 
   <img src="{{ site.url }}{{ site.baseurl }}/images/epbd_arch.png" width="45%" style="float: left;margin: 2px;">
@@ -43,7 +43,7 @@ A schematic summary Bio prediction tasks. <br/>
 
 <div class="jumbotron">
   <div class="alert alert-dismissible alert-secondary">
-  <h4>Research Thrust III: Exposing Fundamental Properties and Organization of the Molecular Representation Space</h4>
+  <h4>Research Thrust III: Exposing Fundamental Properties and Organization of the Representation Space</h4>
   </div>
   <div> 
   <img src="{{ site.url }}{{ site.baseurl }}/images/remhom.png" width="45%" style="float: right;margin: 2px;">

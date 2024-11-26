@@ -1,7 +1,7 @@
 # Site settings
 title: Anowarul Kabir
 email: akabir4@gmu.edu
-description: Academic webpage of Dr. Richard Feynman
+description: Academic webpage of Anowarul Kabir
 baseurl: ""
 url: ""
 
@@ -27,7 +27,6 @@ contact: >
 
 # Pages shown in navbar
 nav_pages:
-  - name: about
   - name: research
   - name: collaboration
   - name: publications
@@ -37,6 +36,7 @@ nav_pages:
   - name: teaching
   # - name: blogs
   - name: services
+  - name: about
 
 include:
   - .htaccess

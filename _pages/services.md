@@ -9,26 +9,39 @@ permalink: /services/
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Mentoring</h4>
+<h4>Grant Proposal Writing</h4>
   <ul>
-    <li>Aug’24-Current: Mentoring an undergraduate student to cultivate a skilled and experienced researcher.</li>
-    <li>Aug'22-Dec'23: Mentored two graduate research students to build their research experience through weekly meetings to review existing literatures, explore new ideas, brainstorm solutions, and ultimately publish multiple collaborative articles.</li>
+    <li>2022: Collaborated with my Ph.D. advisor on several successful NSF-funded grant proposals aligned with my dissertation research.</li>
+  </ul>
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+<h4>Student Mentoring</h4>
+  <ul>
+    <li>Aug’24-Current: Mentoring an undergraduate and a graduate student to cultivate a skilled and experienced researcher.</li>
+    <li>Aug'22-Dec'23: Mentored an undergraduate and two graduate research students to enhance their research experience through weekly meetings focused on reviewing existing literature, exploring new ideas, brainstorming solutions, and publishing multiple collaborative articles.</li>
     <!-- <li></li> -->
   </ul>
 </div>
 </div>
 
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+<h4>Outreach</h4>
+  <ul>
+    <li>May'24: Lectured on prompt engineering, emphasizing the role of AI tools in developing research ideas, as part of the EPIC SPICE Internship program under the U.S. Department of Defense (DoD) STEM Internship Program.</li>
+  </ul>
+</div>
+</div>
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Organizing and Supervision</h4>
+<h4>Lab Management</h4>
   <ul>
-    <li>Jan'23-Current: Supervising the Shehu Lab by leading weekly group meetings, engaging in research discussions with fellow students, and managing lab resources effectively.</li>
-    <li>May'24: Lectured on prompt engineering, emphasizing the role of AI tools in developing research ideas, as part of the EPIC SPICE Internship program under the U.S. Department of Defense (DoD) STEM Internship Program.</li>
-    <li>May-Dec'23: Served on the organizing committee as the Program Committee (PC) Engagement role for AAAI 2024: LLMs4Bio workshop.</li>
+    <li>Jan'23-Current: Supervising the Shehu AI Lab by leading weekly group meetings, engaging in research discussions with fellow students, and managing lab resources effectively.</li>
     <li>Aug-Dec'22: Managed the Machine Learning Reading Group, facilitating weekly presentations and discussions on scholarly articles and recent advancements in the ML community.</li>
-    <!-- <li></li> -->
-
   </ul>
 </div>
 </div>
