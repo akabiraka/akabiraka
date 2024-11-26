@@ -1,0 +1,22 @@
+- name: Anowarul Kabir
+  photo: headshot.jpg
+  info: Ph.D. Candidate in Computer Science, George Mason University
+  email: akabir4@gmu.edu
+  github: https://github.com/akabiraka
+  researchgate: https://www.researchgate.net/profile/Anowarul-Kabir
+  scholar: https://scholar.google.com/citations?user=6vjzN7EAAAAJ&hl=en
+  cv: cv.pdf
+  # Change the items in "education" you have (up to 6)
+  education:
+    [
+      "(Current) Ph.D. Candidate, Computer Science, George Mason University, Virginia, USA",
+      "2016, B.Sc., Software Engineering, Institute of Information Technology, University of Dhaka, Dhaka, Bangladesh",
+      "2011, HHC, Birshreshtha Noor Mohammad Public College, Dhaka, Bangladesh",
+      "2009, SSC, Singair Pilot High School, Manikganj, Dhaka, Bangladesh"
+    ]
+
+  educationshort:
+    [
+      "(Current) Ph.D. Candidate, Computer Science, GMU", 
+      "2016, B.Sc., Software Engineering, IIT, University of Dhaka"
+    ]
